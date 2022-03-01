@@ -1,1 +1,1 @@
-# kaggle_exercises
+Kaggle'da olan verileri kullanarak yaptığım alıştırmalar.
