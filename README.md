@@ -4,5 +4,6 @@ Bu veri seti UK’de 2000-2016 yıllarına ait 1.6 milyondan fazla trafik kazas�
 2- World Happiness Report  
 Ülkelerin mutluluk seviyelerinin verisi, oldukça temiz bir veri olduğu için kolayca bir tahmin kodu hazırladım.  
 MinMaxScaler kullanıldı.  
-MinMaxScaler öznitelikleri(features) 0,1 arasında scale eder.  
+MinMaxScaler öznitelikleri(features) 0,1 arasında scale eder.   
+bazı linkler: https://vitalflux.com/minmaxscaler-standardscaler-python-examples/  
 
