@@ -9,4 +9,4 @@ MinMaxScaler öznitelikleri(features) 0,1 arasında scale eder.
 bazı linkler: https://vitalflux.com/minmaxscaler-standardscaler-python-examples/  
 
 3- Diamond Price Data  
-Linear regresyon kullanılarak elmasların fiyat tahmini.
+Lineer regresyon kullanılarak elmasların fiyat tahmini.
